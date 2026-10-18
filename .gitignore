@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# IDE settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Uploaded / temporary files
+uploads/
+tmp/
+
+# Generated reports (keep directory, ignore content)
+reports/*.txt
+reports/*.html
+reports/*.pdf
+
+# Trained model (large binary – optionally version-control)
+# models/ai_detector.pkl
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Streamlit cache
+.streamlit/
+
